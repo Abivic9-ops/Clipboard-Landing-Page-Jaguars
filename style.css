@@ -10,3 +10,34 @@
     background: #ffffff;
     font-family:Heebo(Woff2), "Heebo Fallback";
 }
+
+/* Styling of the Snippet Section by Emmanuel Victor */
+
+.snippets{
+    background-color: aliceblue;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.flex{
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+h1{
+   text-align: center;
+
+}
+p{
+   text-align: center;
+}
+
+
+
+
