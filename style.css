@@ -112,6 +112,33 @@ p{
    text-align: center;
 }
 
+/* workflow */
+.workflow{
+    align-items: center;
+    justify-content: center;
+    margin: 70px;
+    text-align: center;
+}
 
+/* Tools container editing */
+.tools-container{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+/* Logos editting */
+.logos{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    margin: 70px;
+}
+
+/* Text font editing */
+p{
+    color: gray;
+}
 
 
