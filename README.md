@@ -1,3 +1,4 @@
+The ClipBoard Landing Page project
 A responsive landing page built in HTML and CSS that showcases a product concept called Clipboard ; a snippet-management app that helps users organize and access everything they copy across devices.
 This project was developed as a frontend challenge / portfolio piece using core web technologies. The UI is inspired by popular landing page layouts.
  Live Preview
