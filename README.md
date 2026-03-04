@@ -19,13 +19,13 @@ Supporting tagline explaining core concept
 Call-to-action buttons (Download for iOS & Mac)
 
 Feature Sections
-Quick Search — Find copied content instantly
-iCloud Sync — Sync clipboard items across all devices
-Complete History — Revisit any past snippet at any time
+Quick Search :Find copied content instantly
+iCloud Sync :Sync clipboard items across all devices
+Complete History : Revisit any past snippet at any time
 Workflow Highlights
-Create blacklist — Exclude sensitive items
-Plain text snippets — Clean copied text
-Sneak preview — Preview copied snippets quickly
+Create blacklist : Exclude sensitive items
+Plain text snippets : Clean copied text
+Sneak preview : Preview copied snippets quickly
 
 Brand Logos
 A small section to show partner or platform logos (Google, IBM, Microsoft, HP, etc.)
@@ -44,14 +44,6 @@ The layout uses flexbox and container classes for alignment and responsiveness
 Typography and colors are managed via CSS custom fonts and styles
 `Icons and images are referenced via the images/ directory in the repo
 
-📁 Project Structure
-📦Clipboard-Landing-Page-Jaguars
-├── images/                      # All image assets (icons, screenshots)
-├── index.html                  # Main landing page markup
-├── style.css                   # Custom CSS styles
-└── README.md                  # (You will upload this curated file here)
-📝 How to Use
-
 Clone this repository:
 git clone https://github.com/Abivic9-ops/Clipboard-Landing-Page-Jaguars.git
 
@@ -69,5 +61,5 @@ Contributing
 Contributions are welcome!
 Feel free to open an issue or submit a pull request if you want to suggest improvements or add functionality.
 
-📄 License
+License
 This project is open source — feel free to adapt it for personal or professional use.
